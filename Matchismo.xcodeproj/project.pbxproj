@@ -167,10 +167,10 @@
 			children = (
 				693220951878598A00CACC74 /* Card.h */,
 				693220961878598A00CACC74 /* Card.m */,
+				6932209A18785B0900CACC74 /* PlayingCard.m */,
 				6932209918785B0900CACC74 /* PlayingCard.h */,
 				6932209C18785B6100CACC74 /* Deck.h */,
 				6932209D18785B6100CACC74 /* Deck.m */,
-				6932209A18785B0900CACC74 /* PlayingCard.m */,
 			);
 			name = Model;
 			sourceTree = "<group>";
@@ -487,6 +487,7 @@
 				693220911874727B00CACC74 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		693220921874727B00CACC74 /* Build configuration list for PBXNativeTarget "MatchismoTests" */ = {
 			isa = XCConfigurationList;
@@ -495,6 +496,7 @@
 				693220941874727B00CACC74 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
